@@ -6,5 +6,9 @@ A new class of SSDs has been developed known as Open-Channel SSDs. Open-Channel 
 
 URL：<https://openchannelssd.readthedocs.io/en/latest/>
 
-## What we do?
+## what did I do?
+
+1. I studied and explored the basic knowledge of OCSSD;
+2. I emulated OCSSD based on the QEMU platform and tried to test the basic functions;
+3. I thought about how OCSDD and ISC can be effectively combined.
 
